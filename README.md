@@ -47,3 +47,7 @@ To demonstrate the **technical feasibility and operational stability** of hybrid
 ---
 
 ### 📁 Repository Contents  
+├── Modeling and Analysis of a Grid-Connected Hybrid # Full ETAP report
+├── README.md # Documentation
+├── Results/ # Simulation outputs
+└── Screenshots/ # Circuit & analysis visuals
